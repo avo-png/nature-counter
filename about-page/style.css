@@ -386,7 +386,7 @@ body {
 
 .hero-section {
 	width: 100vw;
-	background-image: url("assets/banner_image_desktop.png");
+	background-image: url("/assets/banner_image_desktop.png");
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
